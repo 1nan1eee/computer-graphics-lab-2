@@ -77,3 +77,14 @@
 - Модульная архитектура с разделением ответственности
 - Обработка граничных случаев при отсечении
 - Эффективное использование алгоритмов компьютерной графики
+
+## Скриншоты
+
+### Начальное состояние окна
+<img width="1002" height="789" alt="image" src="https://github.com/user-attachments/assets/7b127e37-f280-47a1-9f8b-9235e17c71ff" />
+
+### Состояние окна после нажатия кнопки `Enter`
+<img width="1002" height="789" alt="image" src="https://github.com/user-attachments/assets/eee9ddf8-53d7-4170-a15e-3f2bb81326ee" />
+
+### Состояние окна после повторного нажатия кнопки `Enter`
+<img width="1002" height="789" alt="image" src="https://github.com/user-attachments/assets/a2514fe6-7330-48be-8035-0eedad0d5c1c" />
